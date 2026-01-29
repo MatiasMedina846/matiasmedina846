@@ -11,7 +11,7 @@
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
 
-I'm **`Matias Medina`** an 22 y.o. I am a software development student from Argentina.,
+I'm **`Matias Medina`** an 23 y.o. I am a software development student from Argentina.,
 and a self-taught with deep passion for Computer-Science and Technologies.
 
 - 👀 I’m looking to collaborate on **Open-Source** Projects.
