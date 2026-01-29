@@ -15,11 +15,10 @@ I'm **`Matias Medina`** an 23 y.o. I am a software development student from Arge
 and a self-taught with deep passion for Computer-Science and Technologies.
 
 - 👀 I’m looking to collaborate on **Open-Source** Projects.
-- 🐍 I’m looking to collaborate on **Python** projects.
+- 🐍 I’m looking to collaborate on **Python**,**Java**,**HTML,CSS,JavaScript** projects.
 - 👨‍💻 All of my projects are available at [https://github.com/MatiasMedina846]([https://github.com/MatiasMedina846])
 - 🐧 I like **Windows/Linux**.
 - 📫 How to reach me **matimedina111@gmail.com**
-- 😄 Pronouns: He/Him.
 
 <!-- to print thick horizontal line -->
 ---
