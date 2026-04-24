@@ -1,15 +1,8 @@
-<!-- TODO: Add class that explains all the tools you use -->
-
-<!-- <a target="blank"><img align="left" src="./assets/patric1.gif" /></a> -->
-
 ### Hi there 👋
 
 <p align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
-
-<!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
-
 
 I'm **`Matias Medina`** an 23 y.o. I am a software development student from Argentina.,
 and a self-taught with deep passion for Computer-Science and Technologies.
@@ -19,8 +12,6 @@ and a self-taught with deep passion for Computer-Science and Technologies.
 - 👨‍💻 All of my projects are available at [https://github.com/MatiasMedina846]([https://github.com/MatiasMedina846])
 - 🐧 I like **Windows/Linux**.
 - 📫 How to reach me **matimedina111@gmail.com**
-
-<!-- to print thick horizontal line -->
 ---
 
 ```python
