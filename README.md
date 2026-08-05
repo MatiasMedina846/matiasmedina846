@@ -2,7 +2,7 @@
 
 
 
-### <div align="center">I'm a Student of Nacional technologic university, Argentina. Still in the process of learning in the world of Web Development</div>
+### <div align="center">I'm a a qualified programming technician, having graduated from the National Technological University in Argentina. I am still in the process of learning within the world of software development.</div>
 
 
 - 🔭 I’m currently looking for job
