@@ -51,13 +51,6 @@
    <br></br>
       <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
     </td>
-    <td valign="top" width="50%">
-      <b>Most Used Languages</b><br></br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasMedina846"><br></br>
-      <b>Github stats</b><br></br>
-      <img src="https://github-readme-stats.vercel.app/api?username=MatiasMedina846&show_icons=true&theme=github_dark">
-    </td>
-  </tr>
 </table>
 
 ## Connect with me
