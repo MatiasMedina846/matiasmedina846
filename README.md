@@ -2,7 +2,7 @@
 
 
 
-### <div align="center">I'm a a qualified programming technician, having graduated from the National Technological University in Argentina. I am still in the process of learning within the world of software development.</div>
+### <div align="center">I'm a qualified programming technician, having graduated from the National Technological University in Argentina. I am still in the process of learning within the world of software development.</div>
 <br></br>
 
 - 🔭 I’m currently looking for job
